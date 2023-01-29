@@ -1,0 +1,2756 @@
+===========================================================-CASO TESTE 1-==============================================================================
+
+===== Menu do Restaurante =====
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 1
+==========
+
+||No 0 - Pizza - R$ 10.50
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+
+
+ O valor total eh: R$ 82.99
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 2
+==========
+
+||No 0 - Pizza - R$ 10.50
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+
+
+ O valor total eh: R$ 82.99
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 3
+==========
+
+||No 0 - Pizza - R$ 10.50
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+
+
+ O valor total eh: R$ 82.99
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 4
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+
+
+ O valor total eh: R$ 110.97
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 5
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+
+
+ O valor total eh: R$ 110.97
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 6
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 14.49
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 7
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 14.49
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+Fila vazia!!
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao:
+
+===================================================-CASO TESTE 2-==============================================================================
+
+===== Menu do Restaurante =====
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 1
+==========
+
+||No 1 - Hamburguer - R$ 12.30
+||No 0 - Pizza - R$ 10.50
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+||No 2 - Refrigerante - R$ 3.99
+
+
+ O valor total eh: R$ 50.69
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 2
+==========
+
+||No 1 - Hamburguer - R$ 12.30
+||No 0 - Pizza - R$ 10.50
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+||No 2 - Refrigerante - R$ 3.99
+
+
+ O valor total eh: R$ 50.69
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 3
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 0 - Pizza - R$ 10.50
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 2 - Refrigerante - R$ 3.99
+
+
+ O valor total eh: R$ 71.48
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 4
+==========
+
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 2 - Refrigerante - R$ 3.99
+||No 2 - Refrigerante - R$ 3.99
+||No 0 - Pizza - R$ 10.50
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+
+
+ O valor total eh: R$ 95.47
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 5
+==========
+
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 2 - Refrigerante - R$ 3.99
+||No 2 - Refrigerante - R$ 3.99
+||No 0 - Pizza - R$ 10.50
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+
+
+ O valor total eh: R$ 95.47
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 6
+==========
+
+||No 1 - Hamburguer - R$ 12.30
+
+
+ O valor total eh: R$ 12.30
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 7
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 3 - Sorvete - R$ 5.80
+||No 2 - Refrigerante - R$ 3.99
+||No 2 - Refrigerante - R$ 3.99
+
+
+ O valor total eh: R$ 22.18
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 8
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 1 - Hamburguer - R$ 12.30
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+
+
+ O valor total eh: R$ 67.39
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 9
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 1 - Hamburguer - R$ 12.30
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+
+
+ O valor total eh: R$ 67.39
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 10
+==========
+
+||No 1 - Hamburguer - R$ 12.30
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+
+
+ O valor total eh: R$ 100.78
+
+
+A pilha de chocolates acabou, mas ja estara cheia para o proximo cliente
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 11
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+
+
+ O valor total eh: R$ 12.39
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 12
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 102.69
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 13
+==========
+
+
+
+ O valor total eh: R$ 0.00
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 14
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+
+
+ O valor total eh: R$ 35.70
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 15
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+||No 3 - Sorvete - R$ 5.80
+
+
+ O valor total eh: R$ 53.39
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+Fila vazia!!
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao:
+===================================================-CASO TESTE 3-==============================================================================
+
+===== Menu do Restaurante =====
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 1
+==========
+
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+
+
+ O valor total eh: R$ 40.99
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 2
+==========
+
+||No 3 - Sorvete - R$ 5.80
+||No 2 - Refrigerante - R$ 3.99
+||No 0 - Pizza - R$ 10.50
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+
+
+ O valor total eh: R$ 58.68
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 3
+==========
+
+||No 1 - Hamburguer - R$ 12.30
+||No 1 - Hamburguer - R$ 12.30
+||No 1 - Hamburguer - R$ 12.30
+||No 1 - Hamburguer - R$ 12.30
+||No 2 - Refrigerante - R$ 3.99
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 105.48
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 4
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 108.86
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 5
+==========
+
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+||No 1 - Hamburguer - R$ 12.30
+
+
+ O valor total eh: R$ 28.60
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 6
+==========
+
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 1 - Hamburguer - R$ 12.30
+||No 0 - Pizza - R$ 10.50
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 57.20
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 7
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+
+
+ O valor total eh: R$ 76.68
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 8
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+
+
+ O valor total eh: R$ 76.68
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 9
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+||No 3 - Sorvete - R$ 5.80
+||No 2 - Refrigerante - R$ 3.99
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+
+
+ O valor total eh: R$ 85.25
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 10
+==========
+
+||No 1 - Hamburguer - R$ 12.30
+
+
+ O valor total eh: R$ 12.30
+
+
+A pilha de chocolates acabou, mas ja estara cheia para o proximo cliente
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 11
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 39.60
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 12
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+
+
+ O valor total eh: R$ 56.28
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 13
+==========
+
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+
+
+ O valor total eh: R$ 66.37
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 14
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 126.79
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 15
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+
+
+ O valor total eh: R$ 16.29
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao:
+1
+
+==========
+Cliente 16
+==========
+
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 45.70
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+Fila vazia!!
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+Fila vazia!!
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao:
+===================================================-CASO TESTE 4-==============================================================================
+
+===== Menu do Restaurante =====
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 1
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+
+
+ O valor total eh: R$ 75.15
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 2
+==========
+
+||No 1 - Hamburguer - R$ 12.30
+
+
+ O valor total eh: R$ 12.30
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 3
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 28.69
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 4
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 28.69
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 5
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 61.98
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 6
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 61.98
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 7
+==========
+
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 3 - Sorvete - R$ 5.80
+||No 1 - Hamburguer - R$ 12.30
+||No 0 - Pizza - R$ 10.50
+||No 1 - Hamburguer - R$ 12.30
+||No 2 - Refrigerante - R$ 3.99
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 88.78
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 8
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+
+
+ O valor total eh: R$ 111.18
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 9
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+
+
+ O valor total eh: R$ 111.18
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+Fila vazia!!
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao:
+===================================================-CASO TESTE 5-==============================================================================
+
+===== Menu do Restaurante =====
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 1
+==========
+
+||No 3 - Sorvete - R$ 5.80
+||No 1 - Hamburguer - R$ 12.30
+||No 1 - Hamburguer - R$ 12.30
+
+
+ O valor total eh: R$ 30.40
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 2
+==========
+
+||No 3 - Sorvete - R$ 5.80
+||No 1 - Hamburguer - R$ 12.30
+||No 1 - Hamburguer - R$ 12.30
+
+
+ O valor total eh: R$ 30.40
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 3
+==========
+
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 57.99
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 4
+==========
+
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 57.99
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 5
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+
+
+ O valor total eh: R$ 78.78
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 6
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 2 - Refrigerante - R$ 3.99
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 1 - Hamburguer - R$ 12.30
+
+
+ O valor total eh: R$ 80.56
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 7
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 2 - Refrigerante - R$ 3.99
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 1 - Hamburguer - R$ 12.30
+
+
+ O valor total eh: R$ 80.56
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 8
+==========
+
+||No 1 - Hamburguer - R$ 12.30
+
+
+ O valor total eh: R$ 12.30
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 9
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 3 - Sorvete - R$ 5.80
+||No 1 - Hamburguer - R$ 12.30
+
+
+ O valor total eh: R$ 37.00
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 10
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 59.89
+
+
+A pilha de chocolates acabou, mas ja estara cheia para o proximo cliente
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 11
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 1 - Hamburguer - R$ 12.30
+||No 0 - Pizza - R$ 10.50
+||No 1 - Hamburguer - R$ 12.30
+||No 1 - Hamburguer - R$ 12.30
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+
+
+ O valor total eh: R$ 133.79
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 12
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 14.49
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 13
+==========
+
+||No 0 - Pizza - R$ 10.50
+||No 1 - Hamburguer - R$ 12.30
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 54.30
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 14
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+
+
+ O valor total eh: R$ 68.08
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+Fila vazia!!
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao:
+===================================================-CASO TESTE 6-==============================================================================
+
+===== Menu do Restaurante =====
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 1
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+
+
+ O valor total eh: R$ 57.78
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 2
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+||No 3 - Sorvete - R$ 5.80
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+||No 3 - Sorvete - R$ 5.80
+
+
+ O valor total eh: R$ 127.30
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 3
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 14.49
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+Fila vazia!!
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+Fila vazia!!
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao:
+===================================================-CASO TESTE 7-==============================================================================
+
+===== Menu do Restaurante =====
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 1
+==========
+
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 45.69
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 2
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 3 - Sorvete - R$ 5.80
+
+
+ O valor total eh: R$ 82.40
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 3
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 3 - Sorvete - R$ 5.80
+
+
+ O valor total eh: R$ 82.40
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 4
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 1 - Hamburguer - R$ 12.30
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 92.56
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 5
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 1 - Hamburguer - R$ 12.30
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 92.56
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 6
+==========
+
+
+
+ O valor total eh: R$ 0.00
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 7
+==========
+
+
+
+ O valor total eh: R$ 0.00
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 8
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 3 - Sorvete - R$ 5.80
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+
+
+ O valor total eh: R$ 23.99
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 9
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 3 - Sorvete - R$ 5.80
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+
+
+ O valor total eh: R$ 23.99
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 10
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 46.38
+
+
+A pilha de chocolates acabou, mas ja estara cheia para o proximo cliente
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 11
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 46.38
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 12
+==========
+
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+
+
+ O valor total eh: R$ 69.76
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 13
+==========
+
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+
+
+ O valor total eh: R$ 69.76
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 14
+==========
+
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 1 - Hamburguer - R$ 12.30
+||No 0 - Pizza - R$ 10.50
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 2 - Refrigerante - R$ 3.99
+
+
+ O valor total eh: R$ 112.38
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 15
+==========
+
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 1 - Hamburguer - R$ 12.30
+||No 0 - Pizza - R$ 10.50
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+||No 2 - Refrigerante - R$ 3.99
+
+
+ O valor total eh: R$ 112.38
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 16
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+
+
+ O valor total eh: R$ 16.29
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 17
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+
+
+ O valor total eh: R$ 16.29
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+Fila vazia!!
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao:
+===================================================-CASO TESTE 8-==============================================================================
+
+===== Menu do Restaurante =====
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 1
+==========
+
+||No 1 - Hamburguer - R$ 12.30
+||No 0 - Pizza - R$ 10.50
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 3 - Sorvete - R$ 5.80
+
+
+ O valor total eh: R$ 57.70
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 2
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 1 - Hamburguer - R$ 12.30
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 1 - Hamburguer - R$ 12.30
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 3 - Sorvete - R$ 5.80
+
+
+ O valor total eh: R$ 107.09
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+Fila vazia!!
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+===================================================-CASO TESTE 9-==============================================================================
+
+===== Menu do Restaurante =====
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 1
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+
+
+ O valor total eh: R$ 16.29
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 2
+==========
+
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 3 - Sorvete - R$ 5.80
+
+
+ O valor total eh: R$ 49.10
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 3
+==========
+
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 3 - Sorvete - R$ 5.80
+
+
+ O valor total eh: R$ 49.10
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 4
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+||No 1 - Hamburguer - R$ 12.30
+||No 2 - Refrigerante - R$ 3.99
+||No 2 - Refrigerante - R$ 3.99
+
+
+ O valor total eh: R$ 72.28
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 5
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+||No 1 - Hamburguer - R$ 12.30
+||No 2 - Refrigerante - R$ 3.99
+||No 2 - Refrigerante - R$ 3.99
+
+
+ O valor total eh: R$ 72.28
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 6
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+||No 3 - Sorvete - R$ 5.80
+||No 1 - Hamburguer - R$ 12.30
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+
+
+ O valor total eh: R$ 93.87
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 7
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+||No 3 - Sorvete - R$ 5.80
+||No 1 - Hamburguer - R$ 12.30
+||No 2 - Refrigerante - R$ 3.99
+||No 1 - Hamburguer - R$ 12.30
+
+
+ O valor total eh: R$ 93.87
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 8
+==========
+
+
+
+ O valor total eh: R$ 0.00
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 9
+==========
+
+
+
+ O valor total eh: R$ 0.00
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 10
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 3 - Sorvete - R$ 5.80
+
+
+ O valor total eh: R$ 33.10
+
+
+A pilha de chocolates acabou, mas ja estara cheia para o proximo cliente
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 11
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 3 - Sorvete - R$ 5.80
+
+
+ O valor total eh: R$ 33.10
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 12
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+
+
+ O valor total eh: R$ 55.48
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 13
+==========
+
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+
+
+ O valor total eh: R$ 87.99
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 14
+==========
+
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+
+
+ O valor total eh: R$ 87.99
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+Fila vazia!!
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao:
+===================================================-CASO TESTE 10-==============================================================================
+
+===== Menu do Restaurante =====
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 1
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 28.69
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 2
+==========
+
+||No 1 - Hamburguer - R$ 12.30
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 2 - Refrigerante - R$ 3.99
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 101.88
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 3
+==========
+
+||No 1 - Hamburguer - R$ 12.30
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 2 - Refrigerante - R$ 3.99
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 101.88
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 4
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 3 - Sorvete - R$ 5.80
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+
+
+ O valor total eh: R$ 106.77
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 5
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 3 - Sorvete - R$ 5.80
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+
+
+ O valor total eh: R$ 106.77
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 6
+==========
+
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+
+
+ O valor total eh: R$ 20.00
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 7
+==========
+
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+
+
+ O valor total eh: R$ 20.00
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 8
+==========
+
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+
+
+ O valor total eh: R$ 55.90
+
+
+Cliente recebeu um Diamante Negro
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 9
+==========
+
+||No 1 - Hamburguer - R$ 12.30
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+
+
+ O valor total eh: R$ 55.90
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 10
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 1 - Hamburguer - R$ 12.30
+||No 0 - Pizza - R$ 10.50
+||No 2 - Refrigerante - R$ 3.99
+
+
+ O valor total eh: R$ 78.78
+
+
+A pilha de chocolates acabou, mas ja estara cheia para o proximo cliente
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 11
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 0 - Pizza - R$ 10.50
+||No 1 - Hamburguer - R$ 12.30
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+||No 3 - Sorvete - R$ 5.80
+||No 4 - Cerveja - R$ 8.40
+||No 2 - Refrigerante - R$ 3.99
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+
+
+ O valor total eh: R$ 96.98
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 12
+==========
+
+||No 1 - Hamburguer - R$ 12.30
+
+
+ O valor total eh: R$ 12.30
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 13
+==========
+
+||No 1 - Hamburguer - R$ 12.30
+
+
+ O valor total eh: R$ 12.30
+
+
+Cliente recebeu um Bis
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 14
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+
+
+ O valor total eh: R$ 37.50
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 15
+==========
+
+||No 4 - Cerveja - R$ 8.40
+||No 4 - Cerveja - R$ 8.40
+||No 1 - Hamburguer - R$ 12.30
+||No 4 - Cerveja - R$ 8.40
+
+
+ O valor total eh: R$ 37.50
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+==========
+Cliente 16
+==========
+
+||No 2 - Refrigerante - R$ 3.99
+||No 3 - Sorvete - R$ 5.80
+||No 0 - Pizza - R$ 10.50
+||No 4 - Cerveja - R$ 8.40
+||No 0 - Pizza - R$ 10.50
+||No 3 - Sorvete - R$ 5.80
+||No 3 - Sorvete - R$ 5.80
+
+
+ O valor total eh: R$ 50.79
+
+
+Cliente recebeu um Sonho de Valsa
+
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+Fila vazia!!
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao: 1
+
+Fila vazia!!
+
+1- Novo cliente.
+2- Sair do programa.
+Escolha uma opcao:
+
+
+
